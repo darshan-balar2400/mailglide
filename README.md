@@ -184,7 +184,7 @@ Or :
 
 
 ## GitHub Repository 
-Find the source code and contribute to the development of Nodejs-CoreKit on GitHub: (https://github.com/darshan-balar2400/nodejs-corekit)
+Find the source code and contribute to the development of Nodejs-CoreKit on GitHub: (https://github.com/darshan-balar2400/mailglide)
 
 ## License 
 This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
