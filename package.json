@@ -1,0 +1,26 @@
+{
+  "name": "node-mails",
+  "version": "1.0.0",
+  "description": "mail-sender is a versatile Node.js package that simplifies email sending tasks by providing easy-to-use functions for sending emails in HTML, template (with dynamic values), and plain text formats. Whether you need to send beautifully formatted HTML emails, dynamic template emails with personalized content, or simple text emails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemails",
+    "mail",
+    "darshanbalar",
+    "MailTemplates",
+    "htmlmail",
+    "sendmail",
+    "sendmailtemplate",
+    "sendhtmlmail"
+  ],
+  "author": "Darshan Balar",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^7.1.2",
+    "nodemailer": "^6.9.11",
+    "nodemailer-express-handlebars": "^6.1.2"
+  }
+}
