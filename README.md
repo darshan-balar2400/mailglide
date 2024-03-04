@@ -1,6 +1,6 @@
-# Welcome to node-mail-sender !
+# Welcome to mailglide !
 
-node-mail-sender is a versatile Node.js package that simplifies email sending tasks by providing easy-to-use functions for sending emails in HTML, template (with dynamic values), and plain text formats. Whether you need to send beautifully formatted HTML emails, dynamic template emails with personalized content, or simple text emails.
+mailglide is a versatile Node.js package that simplifies email sending tasks by providing easy-to-use functions for sending emails in HTML, template (with dynamic values), and plain text formats. Whether you need to send beautifully formatted HTML emails, dynamic template emails with personalized content, or simple text emails.
 
 # Features
 
