@@ -1,6 +1,6 @@
 {
   "name": "mailglide",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "mailglide is a versatile Node.js package that simplifies email sending tasks by providing easy-to-use functions for sending emails in HTML, template (with dynamic values), and plain text formats. Whether you need to send beautifully formatted HTML emails, dynamic template emails with personalized content, or simple text emails.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "mail",
     "TemplateMails",
     "HtmlMails",
-    "TestMails"
+    "TextMails"
   ],
   "author": "Darshan Balar",
   "license": "ISC",

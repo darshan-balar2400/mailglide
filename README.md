@@ -2,6 +2,8 @@
 
 mailglide is a versatile Node.js package that simplifies email sending tasks by providing easy-to-use functions for sending emails in HTML, template (with dynamic values), and plain text formats. Whether you need to send beautifully formatted HTML emails, dynamic template emails with personalized content, or simple text emails.
 
+![enter image description here](https://res.cloudinary.com/dexratgkq/image/upload/t_mail/v1709607630/mailglide/h3n7yrunhtbrgixlbvtg.png)
+
 # Features
 
 -   **Send HTML Emails:** Send visually appealing emails with HTML content using the SendHtmlMail function.
